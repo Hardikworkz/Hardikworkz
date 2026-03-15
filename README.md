@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://kaggle.com/https://www.kaggle.com/yashulalwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/yashulalwani" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/lhardik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/lhardik" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/xliuh49ukc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/xliuh49ukc/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/xliuh49ukc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/basic_IQ/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/lhardicn9v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/lhardicn9v/" height="30" width="40" /></a>
 </p>
 
